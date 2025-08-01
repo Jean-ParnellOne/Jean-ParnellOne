@@ -14,7 +14,8 @@ Currently, I am participating in the Break Through Tech AI program through Corne
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Keras, TensorFlow  
 - **Fields of Interest:** Machine Learning, Bioinformatics, Genomics, Computational Neuroscience
 
-🔗 [Connect with me on LinkedIn]((https://www.linkedin.com/in/jeanparnelllouis/))
+🔗 [Let's connect on LinkedIn!](https://www.linkedin.com/in/jeanparnelllouis/)
+
 
 <!--
 **Jean-ParnellOne/Jean-ParnellOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
