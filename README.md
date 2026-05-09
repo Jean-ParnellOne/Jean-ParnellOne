@@ -1,4 +1,4 @@
-## Jean Parnell Louis | Biomolecular Sciences & Computer Science
+## Jean Parnell Louis | Chemical & Biomolecular Engineering with a Minor in Computer Science
 
 Hello, my name is JP Louis, and I am a sophomore at the Tandon School of Engineering, currently pursuing a Bachelor of Science degree in Computer Science and Biomolecular Sciences. 
 
