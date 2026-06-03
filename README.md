@@ -10,7 +10,7 @@ Currently, I am participating in the Break Through Tech AI program through Corne
 
 ### 🚀 Core Technologies & Tools
 
-- **Programming Languages:** Python, C++, C#, Java  
+- **Programming Languages:** Python, C++, Java  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Keras, TensorFlow  
 - **Fields of Interest:** Machine Learning, Bioinformatics, Genomics, Computational Neuroscience
 
